@@ -1,0 +1,25 @@
+{
+  "uuid": "2c8b31d7-7c97-4553-8f8d-b3ed49f0d4a2",
+  "shortName": "p$tocks",
+  "longName": "p$tocks",
+  "companyName": "Coolioxlr",
+  "versionCode": 1,
+  "versionLabel": "1.0.1",
+  "capabilities": [ "configurable" ],
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "status": 8
+  },
+  "resources": {
+    "media": [
+    	{
+    		"menuIcon": true,
+        	"type": "png",
+        	"name": "WATCH_MENU_ICON",
+        	"file": "watch_menu_icon.png"
+      	}
+    ]
+  }
+}
