@@ -1,8 +1,0 @@
-argv = ['/Users/ethan/pebble-dev/PebbleSDK-2.0-BETA2/Pebble/waf', 'configure', 'build']
-environ = {'TERM_SESSION_ID': '1F7DFDA3-3927-40F5-AE18-30619EDC50AA', 'SSH_AUTH_SOCK': '/tmp/launch-E5PSwx/Listeners', 'VERSIONER_PYTHON_PREFER_32_BIT': 'no', 'TERM_PROGRAM_VERSION': '326', 'SHELL': '/bin/bash', 'LOGNAME': 'ethan', 'USER': 'ethan', 'HOME': '/Users/ethan', 'PATH': '/Users/ethan/pebble-dev/PebbleSDK-2.0-BETA2/arm-cs-tools/bin:/Users/ethan/pebble-dev/PebbleSDK-2.0-BETA2/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin', 'TMPDIR': '/var/folders/mz/gtv_ns813jbc63gnzfg7dwz00000gn/T/', 'TERM_PROGRAM': 'Apple_Terminal', 'LANG': 'en_US.UTF-8', 'TERM': 'xterm-256color', 'Apple_PubSub_Socket_Render': '/tmp/launch-oaLvhq/Render', 'VERSIONER_PYTHON_VERSION': '2.7', 'SHLVL': '2', 'SECURITYSESSIONID': '186a4', '__CF_USER_TEXT_ENCODING': '0x1F5:0:0', 'PWD': '/Users/ethan/pebble-dev/pebble-stocks', '_': '/Users/ethan/pebble-dev/PebbleSDK-2.0-BETA2/Pebble/waf', '__CHECKFIX1436934': '1'}
-files = ['/Users/ethan/pebble-dev/pebble-stocks/wscript']
-hash = 4672844372416070989
-options = {'files': '', 'jobs': 4, 'verbose': 0, 'nocache': False, 'progress_bar': 0, 'timestamp': None, 'distcheck_args': None, 'top': '', 'destdir': '', 'keep': 0, 'zones': '', 'debug': False, 'prefix': '/usr/local/', 'download': False, 'force': False, 'targets': '', 'out': ''}
-out_dir = '/Users/ethan/pebble-dev/pebble-stocks/build'
-run_dir = '/Users/ethan/pebble-dev/pebble-stocks'
-top_dir = '/Users/ethan/pebble-dev/pebble-stocks'
