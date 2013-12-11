@@ -1,0 +1,61 @@
+{
+   "name": "AddStockApp",
+   "indexHtmlPath": "index.html",
+   "url": null,
+   "js": [
+      {
+         "path": "touch/sencha-touch.js",
+         "x-bootstrap": true
+      },
+      {
+         "path": "bootstrap.js",
+         "x-bootstrap": true
+      },
+      {
+         "path": "app.js",
+         "bundle": true,
+         "update": "delta"
+      }
+   ],
+   "css": [
+      {
+         "update": "delta",
+         "platform": [
+            "phone",
+            "tablet",
+            "desktop"
+         ],
+         "theme": "Cupertino",
+         "path": "theme/cupertino-8061d0e6-c6c1-4aac-98f7-aaaece536d8f.css",
+         "_architect_active_theme": true
+      }
+   ],
+   "appCache": {
+      "cache": [
+         "index.html"
+      ],
+      "network": [
+         "*"
+      ],
+      "fallback": []
+   },
+   "resources": [
+      "resources/images",
+      "resources/icons",
+      "resources/startup"
+   ],
+   "ignore": [
+      ".svn$"
+   ],
+   "archivePath": "archive",
+   "requires": [],
+   "id": "f5c9dc82-be42-49f0-a0c4-882fd8f02afd",
+   "_architect": {
+      "_comment": "Please don't edit. This is Architect data.",
+      "name": "AddStockApp",
+      "css": [],
+      "js": [],
+      "resources": [],
+      "requires": []
+   }
+}
