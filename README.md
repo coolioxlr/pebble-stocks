@@ -1,4 +1,4 @@
-pebble-stocks
+Pebble Stocks
 =============
 
 Pebble Stocks
